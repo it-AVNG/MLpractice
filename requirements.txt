@@ -4,4 +4,5 @@ Numpy
 Scipy
 Ipython
 scikit-learn
+mglearn #for study only
 
